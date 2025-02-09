@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Eltone Mabodo"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portifolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/iammabodo
+      - icon: twitter
+        href: https://x.com/eltonemabodo
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+
+editor: visual
+

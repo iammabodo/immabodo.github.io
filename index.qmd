@@ -1,0 +1,18 @@
+---
+title: "Eltone Mabodo"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/eltonemabodo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eltone-mabodo/
+    - icon: github
+      text: Github
+      href: https://github.com/iammabodo
+---
+
+Applied micro (food security and nutrition) economist/data scientiest with 5+ years of experience in economic research and data science within academia, UN humanitarian projects, and policy think tanks. Skilled in Stata and R for quantitative analysis, with a strong focus on reproducible research using Git for collaboration. Master’s research on child nutrition in Zimbabwe published in an academic journal, driving evidence-based policy contributions.

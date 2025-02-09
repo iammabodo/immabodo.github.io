@@ -1,0 +1,13 @@
+---
+title: "Masters Thesis"
+author: "Eltone Mabodo"
+date: "2024-11-12"
+categories: [code, analysis, Stata, R]
+image: "image.jpg"
+---
+
+This is my Masters in Economics thesis where I used the 2015 Zimbabwe Demographic and Health Survey data to investgate the relationship between the health/nutrition status of children under the age of five and househol level socio-economic characteristics. The study can be found \[here\](<https://publication.aercafricalibrary.org/items/1a885566-ab5d-4a93-a918-23e75ee0de6d>){target = "\_blank"}
+
+```{r}
+1 + 1
+```
